@@ -1,0 +1,17 @@
+/* play around with different properties from the link */ 
+
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-background  */
+
+/* also play flexbox froggy game! */ 
+
+/* https://flexboxfroggy.com/ */ 
+
+/* or try the flexbox ducky game! */ 
+
+/* https://courses.cs.washington.edu/courses/cse154/flexboxducky/ */ 
+
+div {
+    display: flex; 
+    /* justify-content: center;  */
+}
+
